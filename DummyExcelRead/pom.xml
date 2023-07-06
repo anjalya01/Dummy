@@ -2,6 +2,18 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.Excel</groupId>
   <artifactId>DummyExcelRead</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version> 
   <name>DummyExcelRead</name>
+  <dependencies>
+<dependency>
+<groupId>org.apache.poi</groupId>
+<artifactId>poi</artifactId>
+<version>5.2.3</version>
+</dependency>
+<dependency>
+<groupId>org.apache.poi</groupId>
+<artifactId>poi-ooxml</artifactId>
+<version>5.2.3</version>
+</dependency>
+</dependencies>
 </project>
